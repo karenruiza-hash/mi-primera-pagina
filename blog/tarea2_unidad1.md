@@ -1,8 +1,3 @@
----
-layout: default
-title: Tarea 2 - Ejercicios Unidad 1
----
-
 # Tarea 2 - Ejercicios Unidad 1
 
 ## Reto 1
