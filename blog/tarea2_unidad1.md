@@ -118,5 +118,6 @@ abajo(pasosA)
 ```
 
 
-
+```
 Inicialmente se definen tres variables: pasosD: para el número de pasos que dará la tortuga hacia la derecha. pasosA: para el número de pasos que dará la tortuga hacia abajo. escalones: para el contador que indica en qué escalon se encuentra la tortuga. También se definen dos funciones, derecha(n), usa el valor de escalones para calcular cuántos espacios debe dejar a la izquierda (espaciosIzquierda), además imprime una línea de guiones, seguida del símbolo >, que marca el recorrido de la tortuga hacia la derecha, según el escalón actual. La función abajo(n) calcula los espacios a la izquierda según el escalón, imprime líneas con una barra vertical | y al final la letra v, marcando la posición de la tortuga, finalmente, aumenta el contador escalones en 1, lo que hace que el próximo bloque se dibuje más a la derecha. Al finalizar se llaman las funciones derecha(pasosD) y abajo(pasosA) tres veces seguidas para representar el número de escalones que se formarán en el recorrido de la tortuga.
+```
