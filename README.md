@@ -31,12 +31,10 @@ Aprender sobre algoritmos, variables, funciones, me está permitiendo entender q
 
 <h3>Tarea Mini-Turtle</h3>
 
-**Ejercicio I**
+**Ejercicio I: Versión Funcional (Modularidad)**
 
 https://github.com/karenruiza-hash/mini-turtle
 
-**Ejercicio II**
+**Ejercicio II: Versión Orientada a Objetos (POO)**
 
 https://github.com/karenruiza-hash/mini_turtle_oo
-
-
