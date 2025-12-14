@@ -28,3 +28,10 @@ Ayuda a evitar errores y hacer el código más claro.
 
 <h3>Reflexión</h3>
 Aprender sobre algoritmos, variables, funciones, me está permitiendo entender que la programación no es solo escribir código, sino pensar de forma lógica y ordenada. Cada concepto cumple un papel importante, las variables y constantes almacenan datos, las funciones organizan las acciones, y el algoritmo define los pasos para resolver un problema. Con la práctica, he descubierto que crear un programa es darle solución a un problema, donde cada linea tiene un propósito. 
+
+<h3>Tarea Mini-Turtle</h3>
+Ejercicio I
+https://github.com/karenruiza-hash/mini-turtle
+
+Ejercicio II
+https://github.com/karenruiza-hash/mini_turtle_oo
